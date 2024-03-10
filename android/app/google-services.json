@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876214846990",
+    "project_id": "baxifirebase",
+    "storage_bucket": "baxifirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876214846990:android:17ffcb0f0569c19bef9e5f",
+        "android_client_info": {
+          "package_name": "com.example.baxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4IS5OpNfiKz28Ho7eRKxowk_CZMkTaI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
